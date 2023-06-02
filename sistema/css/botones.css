@@ -1,0 +1,81 @@
+button.cancelar {
+    background-color: #d6514e;
+    border-color: #d6514e;
+    color: white;
+    width: auto;
+    align-items: center;
+    border-radius: 5px;
+    padding: 5px 20px;
+    font-size: 18px;
+}
+
+a.cancelar {
+    background-color: #d6514e;
+    border-color: #d6514e;
+    color: white;
+    width: auto;
+    align-items: center;
+    border-radius: 5px;
+    padding: 5px 20px;
+    font-size: 18px;
+}
+
+a.editar {
+    background-color: #f0ac4e;
+    border-color: #f0ac4e;
+    color: white;
+    width: auto;
+    align-items: center;
+    border-radius: 5px;
+    padding: 5px 20px;
+    font-size: 18px;
+}
+
+a.guardar {
+    background-color: #347ab9;
+    border-color: #347ab9;
+    color: white;
+    width: auto;
+    align-items: center;
+    border-radius: 5px;
+    padding: 5px 20px;
+    font-size: 18px;
+}
+
+a.nuevo {
+    background-color: #5fb95e;
+    border-color: #5fb95e;
+    color: white;
+    width: auto;
+    align-items: center;
+    border-radius: 5px;
+    padding: 5px 20px;
+    font-size: 18px;
+}
+
+button.editar {
+    background-color: #f0ac4e;
+    border-color: #f0ac4e;
+    color: white;
+    width: auto;
+    align-items: center;
+    border-radius: 5px;
+    padding: 5px 20px;
+    font-size: 18px;
+}
+
+button.guardar {
+    background-color: #347ab9;
+    border-color: #347ab9;
+    color: white;
+    width: auto;
+    align-items: center;
+    border-radius: 5px;
+    padding: 5px 20px;
+    font-size: 18px;
+}
+
+div.boton {
+    display: flex;
+    justify-content: center;
+}
